@@ -1,0 +1,11 @@
+#TODO
+
+1) rename login.sl.php as index.php
+2) rename index.php as main.php
+3) edit query.php
+4) edit logout.php
+
+
+#IMPROVEMENTS
+1) edit testcoord.php to remove the buttons with the trainer
+2) edit main.php to be unaccesible as the name is no longer available.
